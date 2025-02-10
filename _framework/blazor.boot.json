@@ -52,7 +52,6 @@
       "VSPortfølje.wasm": "sha256-7aSVoDww1wR/GlKDHyZrZKllzgaiOOJv8m1XOY9uxOY="
     }
   },
-  "cacheBootResources": true,
   "debugLevel": 0,
   "linkerEnabled": true,
   "globalizationMode": "sharded",
