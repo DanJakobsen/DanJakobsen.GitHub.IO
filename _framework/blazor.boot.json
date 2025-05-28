@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "VSPortfølje",
   "resources": {
-    "hash": "sha256-lSqTrCHN/bZC0g18qMVrCCspX+TaJRdGpFDN23o70DM=",
+    "hash": "sha256-f2/FgP5rSS1+NB+9Sh7omoNzUWpxjMFjSpGFRyJMpbM=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-RiGT44TFZmHOY+Oqvb8o8r+BJVWex6+dPxFxrOiWvFY="
     },
@@ -47,7 +47,7 @@
       "System.Text.Encodings.Web.wasm": "sha256-cT0gUqY2VhbDmvQxpulllXn00KgHu1fkmyjMeQtUTvM=",
       "System.Text.Json.wasm": "sha256-TvVVyet/lF/2DVSnm3oWKHkqBci170d6+QdmgezdBkE=",
       "System.Text.RegularExpressions.wasm": "sha256-s/c6zyvTF5xCf4E/lGObOqyJNwXVbPn4VVPoQVJNNUQ=",
-      "VSPortfølje.wasm": "sha256-NHOWH+fZ3d3/iJ1d1HNA6wO1WQR/gyxFGALoP9UlJSw="
+      "VSPortfølje.wasm": "sha256-60n7fGR4jLuMKLtRgxt96pR4Z/9/i7Eck6gzoZGaMtE="
     }
   },
   "debugLevel": 0,
